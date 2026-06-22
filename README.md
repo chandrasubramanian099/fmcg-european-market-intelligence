@@ -18,10 +18,9 @@ This project simulates the full workflow of a Market Intelligence / Commercial A
 
 | File | Description |
 |---|---|
-| `sql/` | SQL scripts — data extraction, cleaning, and aggregation queries |
-| `excel/FMCG_Analysis_VERIFIED.xlsx` | Power Query data model, Power Pivot/DAX measures, TAM/SAM/SOM market sizing, pricing model, and competitive intelligence tracker |
-| `powerbi/FMCG_BI.pbix` | Interactive Power BI dashboard — country comparisons, trend analysis, market sizing visuals |
-| `report/FMCG_MI_Report.pdf` | 5-section market intelligence report — executive summary, market overview, country analysis, competitive landscape, and recommendations |
+| `FMCG Analysis.xlsx` | Power Query data model, Power Pivot/DAX measures, TAM/SAM/SOM market sizing, pricing model, and competitive intelligence tracker |
+| `FMCG BI.pbix` | Interactive Power BI dashboard — country comparisons, trend analysis, market sizing visuals |
+| `FMCG_MI_Report.pdf` | 5-section market intelligence report — executive summary, market overview, country analysis, competitive landscape, and recommendations |
 
 ## Tools & Skills Demonstrated
 
